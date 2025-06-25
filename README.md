@@ -20,5 +20,5 @@ This repository contains 12 Python projects:
 #Clone the repository:
   ```bash
 1. git clone https://github.com/abrarxploit/python-projects.git
-2. cd python-projects
+2. cd python-projects/Python Projects
 3. python main.py
